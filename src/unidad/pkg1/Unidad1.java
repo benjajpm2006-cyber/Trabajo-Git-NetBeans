@@ -4,17 +4,10 @@
  */
 package unidad.pkg1;
 
-/**
- *
- * @author ben
- */
 public class Unidad1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
     }
     
 }
